@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Define backup base directory
+# Define backup base directory....
 backup_base="/backup"
 
 # Create a timestamp for the backup
